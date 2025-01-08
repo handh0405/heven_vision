@@ -1,2 +1,2 @@
-# HEVEN 자율차팀 인지팀 레포지토리 입니다.
-^~^
+# HEVEN_VISION
+HEVEN 인지팀
